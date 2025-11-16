@@ -7,5 +7,6 @@
 ArithmeticOperations
 <img width="1898" height="608" alt="image" src="https://github.com/user-attachments/assets/6eec4c83-251c-44f2-b023-767cb96a2d3c" />
 <img width="1890" height="620" alt="image" src="https://github.com/user-attachments/assets/9e20b321-4a8a-4565-94c6-472e6f8df344" />
+<img width="1871" height="601" alt="image" src="https://github.com/user-attachments/assets/03e951a2-57f0-4a76-9474-3594755228b4" />
 ![Uploading image.png…]()
 ![Uploading image.png…]()
