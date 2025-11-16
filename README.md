@@ -11,5 +11,6 @@ ArithmeticOperations
 <img width="1866" height="605" alt="image" src="https://github.com/user-attachments/assets/8ada7272-90a0-4035-a2bd-9dd56fae8d46" />
 <img width="1888" height="626" alt="image" src="https://github.com/user-attachments/assets/991e0083-86b5-41a2-a4d1-03e395b37c28" />
 <img width="1891" height="545" alt="image" src="https://github.com/user-attachments/assets/db44bdec-cb70-4e04-8bab-d56cdda3b4c6" />
+<img width="1871" height="613" alt="image" src="https://github.com/user-attachments/assets/84247019-0bba-4863-bccf-9955f3780665" />
 ![Uploading image.png…]()
 ![Uploading image.png…]()
